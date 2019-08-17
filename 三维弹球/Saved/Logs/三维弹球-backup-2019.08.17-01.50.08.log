@@ -1,0 +1,857 @@
+﻿Log file open, 08/17/19 09:24:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 三维弹球
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.352125
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.17-01.24.53:917][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.17-01.24.53:917][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.17-01.24.53:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.17-01.24.53:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:918][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.17-01.24.53:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.17-01.24.53:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.17-01.24.53:924][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.17-01.24.53:924][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.17-01.24.53:937][  0]LogHAL: Display: Platform has ~ 16 GB [17057816576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.17-01.24.53:938][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.17-01.24.53:938][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.17-01.24.53:939][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.17-01.24.53:939][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.17-01.24.53:939][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.17-01.24.53:939][  0]LogInit: Computer: PREOATOR
+[2019.08.17-01.24.53:939][  0]LogInit: User: ACER
+[2019.08.17-01.24.53:939][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.17-01.24.53:939][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.08.17-01.24.53:939][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.17-01.24.53:939][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.17-01.24.53:939][  0]LogMemory: Process Physical Memory: 97.02 MB used, 97.02 MB peak
+[2019.08.17-01.24.53:939][  0]LogMemory: Process Virtual Memory: 89.06 MB used, 89.06 MB peak
+[2019.08.17-01.24.53:939][  0]LogMemory: Physical Memory: 6044.08 MB used,  10223.52 MB free, 16267.60 MB total
+[2019.08.17-01.24.53:939][  0]LogMemory: Virtual Memory: 4660.73 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.17-01.24.54:014][  0]LogInit: Using OS detected language (zh-CN).
+[2019.08.17-01.24.54:014][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.08.17-01.24.54:015][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.17-01.24.54:016][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.17-01.24.54:017][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.17-01.24.54:076][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.17-01.24.54:076][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.17-01.24.54:076][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.17-01.24.54:076][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.08.17-01.24.54:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.08.17-01.24.54:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.08.17-01.24.54:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.17-01.24.54:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.17-01.24.54:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.17-01.24.54:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.17-01.24.54:113][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.17-01.24.54:208][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.17-01.24.54:208][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.17-01.24.54:466][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.17-01.24.54:466][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.17-01.24.54:559][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.08.17-01.24.54:559][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.17-01.24.54:577][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.17-01.24.54:577][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.17-01.24.54:581][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.17-01.24.54:581][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.17-01.24.54:585][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.17-01.24.54:585][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.17-01.24.54:585][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.17-01.24.54:632][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.17-01.24.54:632][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.17-01.24.54:632][  0]LogWindows: EnumDisplayDevices:
+[2019.08.17-01.24.54:633][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.17-01.24.54:633][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.17-01.24.54:634][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.17-01.24.54:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.17-01.24.54:637][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.17-01.24.54:638][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.17-01.24.54:638][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.17-01.24.54:639][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:640][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:641][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:642][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:643][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:643][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:644][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:646][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:646][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:648][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:648][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:649][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:650][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:651][  0]LogWindows:    20. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:651][  0]LogWindows:    21. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:652][  0]LogWindows:    22. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.17-01.24.54:654][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.17-01.24.54:654][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.08.17-01.24.54:654][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.08.17-01.24.54:654][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.08.17-01.24.54:654][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.08.17-01.24.54:706][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.17-01.24.54:710][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.17-01.24.54:710][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.17-01.24.54:710][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.17-01.24.54:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.17-01.24.55:199][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.17-01.24.55:214][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.17-01.24.55:230][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.17-01.24.55:247][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.17-01.24.55:265][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.17-01.24.55:284][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.17-01.24.55:301][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.17-01.24.55:321][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.17-01.24.55:330][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.17-01.24.55:445][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.17-01.24.55:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.17-01.24.55:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.17-01.24.55:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.17-01.24.55:450][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.17-01.24.55:511][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.17-01.24.55:511][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.17-01.24.55:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.17-01.24.55:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.17-01.24.55:555][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.17-01.24.55:569][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.17-01.24.55:585][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.17-01.24.55:601][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.17-01.24.55:651][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.17-01.24.55:651][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.17-01.24.55:651][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.17-01.24.55:664][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.17-01.24.55:737][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (C:/Users/ACER/Desktop/ball/三维弹球/Intermediate/Shaders/WorkingDirectory/18180/).
+[2019.08.17-01.24.55:737][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ACER/AppData/Local/Temp/UnrealShaderWorkingDir/13C7B7A44333E3F0857CF49F066FFD29/'.
+[2019.08.17-01.24.55:751][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.08.17-01.24.56:356][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.17-01.24.56:418][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/ACER/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.17-01.24.56:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ACER/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.17-01.24.56:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ACER/Desktop/ball/三维弹球/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.17-01.24.56:419][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.17-01.24.56:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ACER/Desktop/ball/三维弹球/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.17-01.24.56:419][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.17-01.24.56:434][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.17-01.24.56:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.17-01.24.56:434][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.17-01.24.56:447][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ACER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.17-01.24.56:447][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.17-01.24.56:447][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.17-01.24.56:475][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.17-01.24.56:476][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.17-01.24.56:477][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.17-01.24.56:595][  0]LogAssetRegistry: FAssetRegistry took 0.0442 seconds to start up
+[2019.08.17-01.24.57:101][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.17-01.24.57:283][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.17-01.24.57:283][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.17-01.24.57:283][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.17-01.24.57:283][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.17-01.24.57:283][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.17-01.24.57:297][  0]LogNetVersion: 三维弹球 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3595487887)
+[2019.08.17-01.24.57:987][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 4 prioritized culture(s) in 0.242541 seconds
+[2019.08.17-01.24.57:995][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.17-01.24.57:995][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.17-01.24.57:995][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.17-01.24.59:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.17-01.24.59:076][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.17-01.24.59:084][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2019.08.17-01.24.59:084][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.08.17-01.24.59:084][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.08.17-01.24.59:202][  0]SourceControl: 源码控制已禁用
+[2019.08.17-01.24.59:202][  0]SourceControl: 源码控制已禁用
+[2019.08.17-01.24.59:206][  0]SourceControl: 源码控制已禁用
+[2019.08.17-01.24.59:208][  0]SourceControl: 源码控制已禁用
+[2019.08.17-01.24.59:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.17-01.24.59:499][  0]LogOcInput: OculusInput pre-init called
+[2019.08.17-01.25.00:334][  0]LogEngine: Initializing Engine...
+[2019.08.17-01.25.00:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.17-01.25.00:337][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.17-01.25.00:582][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.17-01.25.00:598][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.17-01.25.00:685][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-01.25.00:731][  0]LogInit: FAudioDevice initialized.
+[2019.08.17-01.25.00:731][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.17-01.25.00:846][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/ACER/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.17-01.25.00:852][  0]LogInit: Texture streaming: Enabled
+[2019.08.17-01.25.00:874][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.17-01.25.00:896][  0]LogInit: Transaction tracking system initialized
+[2019.08.17-01.25.00:922][  0]BlueprintLog: New page: 编辑器加载
+[2019.08.17-01.25.01:080][  0]LocalizationService: 本地化服务已禁用
+[2019.08.17-01.25.01:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/' took 0.01s
+[2019.08.17-01.25.01:658][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.17-01.25.01:658][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.17-01.25.01:901][  0]SourceControl: 源码控制已禁用
+[2019.08.17-01.25.01:901][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.17-01.25.01:902][  0]LightingResults: New page: 光照构建
+[2019.08.17-01.25.01:904][  0]MapCheck: New page: 地图检测
+[2019.08.17-01.25.01:904][  0]LightingResults: New page: 光照构建
+[2019.08.17-01.25.01:932][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.08.17-01.25.02:022][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.17-01.25.02:037][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.17-01.25.02:071][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.17-01.25.02:071][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.17-01.25.02:071][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.805毫秒完成。
+[2019.08.17-01.25.02:071][  0]LogFileHelpers: Loading map 'Template_Default' took 0.170
+[2019.08.17-01.25.03:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-01.25.03:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-01.25.03:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-01.25.03:738][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-01.25.04:007][  0]LogCollectionManager: Loaded 0 collections in 0.001231 seconds
+[2019.08.17-01.25.04:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Collections/' took 0.01s
+[2019.08.17-01.25.04:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Developers/ACER/Collections/' took 0.01s
+[2019.08.17-01.25.04:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Collections/' took 0.01s
+[2019.08.17-01.25.04:396][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.17-01.25.04:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2732 classes and 659 folders.
+[2019.08.17-01.25.04:623][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.17-01.25.04:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.04:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.05:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.17-01.25.07:463][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.17-01.25.07:554][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.17-01.25.08:461][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.17-01.25.08:463][  0]LogSlate: Took 0.001919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.17-01.25.08:500][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.17-01.25.08:633][  0]LogSlate: Took 0.007859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.17-01.25.09:247][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2019.08.17-01.25.10:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.17-01.25.10:045][  0]LogLoad: (Engine Initialization) Total time: 18.27 seconds
+[2019.08.17-01.25.10:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.17-01.25.10:177][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.17-01.25.13:150][171]LogAssetRegistry: Asset discovery search completed in 16.5783 seconds
+[2019.08.17-01.25.13:153][171]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.17-01.25.13:153][171]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2019.08.17-01.26.00:399][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.26.42:476][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.17-01.26.43:716][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.17-01.26.45:342][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.26.46:426][365]Cmd: DELETE
+[2019.08.17-01.26.46:426][365]Cmd: ACTOR DELETE
+[2019.08.17-01.26.46:743][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.17-01.26.46:816][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.08.17-01.26.46:832][365]LogEditorActor: Deleted 1 Actors (0.188 secs)
+[2019.08.17-01.27.45:246][933]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.17-01.27.46:635][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.27.54:162][452]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-01.28.10:634][679]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.08.17-01.28.11:858][751]Cmd: DELETE
+[2019.08.17-01.28.11:858][751]Cmd: ACTOR DELETE
+[2019.08.17-01.28.11:860][751]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.08.17-01.28.11:886][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.08.17-01.28.11:887][751]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.08.17-01.29.57:029][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.30.09:568][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-01.31.27:101][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.31.27:766][407]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.17-01.31.29:028][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.33.18:958][440]Cmd: TRANSACTION UNDO
+[2019.08.17-01.33.18:958][440]LogEditorTransaction: Undo 编辑 X
+[2019.08.17-01.33.19:165][440]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.17-01.33.41:870][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-01.33.50:644][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-01.34.02:520][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.17-01.34.36:961][759]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.08.17-01.34.46:586][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.35.35:118][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.08.17-01.35.35:150][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.17-01.35.35:342][256]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Untitled_1_Auto17F7CD311477E948C905176B951947DE7.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.08.17-01.35.35:363][256]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.275
+[2019.08.17-01.35.35:363][256]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
+[2019.08.17-01.35.49:573][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.35.54:661][628]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.17-01.36.01:722][ 39]LogWindows: LaunchURL http://docs.unrealengine.com/latest/ZHO/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.08.17-01.36.23:136][839]LogSlate: Window '将关卡另存为' being destroyed
+[2019.08.17-01.36.23:726][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.08.17-01.36.23:729][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/NewMap" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.17-01.36.23:754][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.08.17-01.36.23:882][839]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/NewMap41E7441B49EDBA36EC540598A2789835.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/NewMap.umap'
+[2019.08.17-01.36.23:923][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/NewMap_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.08.17-01.36.23:978][839]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/NewMap_BuiltData885857BC45C730E6CB2A308C97E53B98.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/NewMap_BuiltData.uasset'
+[2019.08.17-01.36.23:993][839]LogFileHelpers: Saving map 'NewMap' took 0.848
+[2019.08.17-01.36.52:000][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.08.17-01.36.52:000][701]LogMetaData: Removing '/Game/maps/mainlevel.SKEL_mainlevel_C' ref from Metadata '/Game/maps/NewMap.PackageMetaData'
+[2019.08.17-01.36.52:000][701]LogMetaData: Removing '/Game/maps/mainlevel.mainlevel_C' ref from Metadata '/Game/maps/NewMap.PackageMetaData'
+[2019.08.17-01.36.52:000][701]LogMetaData: Removing '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/maps/NewMap.PackageMetaData'
+[2019.08.17-01.36.52:000][701]LogMetaData: Removing '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/maps/NewMap.PackageMetaData'
+[2019.08.17-01.36.52:033][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.17-01.36.52:055][701]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData1C78A67E4D8CACBA9C22DA929DD69E54.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.17-01.36.52:069][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.17-01.36.52:106][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.17-01.36.52:240][701]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevelF986352C47D0BE23E404F6A04FC3297C.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.17-01.36.52:252][701]LogFileHelpers: Saving map 'mainlevel' took 0.186
+[2019.08.17-01.36.52:432][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.08.17-01.36.52:457][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.08.17-01.36.52:489][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.08.17-01.36.52:512][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.08.17-01.39.11:603][315]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ACER/Desktop/utf-8' 'PinballAssets/PinballAssets/PinballAssets/BallSphere.FBX)
+[2019.08.17-01.39.11:829][315]LogFbx: Loading FBX Scene from C:/Users/ACER/Desktop/utf-8' 'PinballAssets/PinballAssets/PinballAssets/BallSphere.FBX
+[2019.08.17-01.39.11:845][315]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.17-01.40.27:433][315]LogSlate: Window 'FBX导入选项' being destroyed
+[2019.08.17-01.40.27:669][315]LogMaterial: Display: Missing cached shader map for material M_ChromeNoPhysMat, compiling. 
+[2019.08.17-01.40.27:892][315]LogStaticMesh: 正在构建静态网格体 BallSphere……
+[2019.08.17-01.40.28:023][315]LogStaticMesh: Built static mesh [0.13s] /Game/Assests/BallSphere.BallSphere
+[2019.08.17-01.40.28:062][315]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2019.08.17-01.40.28:254][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.17-01.40.28:271][316]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '着 (U+7740)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.17-01.40.48:259][511]LogSlate: Window '消息日志' being destroyed
+[2019.08.17-01.40.48:266][511]LogSlate: Window '消息日志' being destroyed
+[2019.08.17-01.41.10:064][817]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.811 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.17-01.41.12:059][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.08.17-01.41.18:620][935]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.17-01.41.18:628][935]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assests/M_ChromeNoPhysMat.M_ChromeNoPhysMat
+[2019.08.17-01.41.19:606][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.08.17-01.41.21:852][ 62]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assests/BallSphere.BallSphere
+[2019.08.17-01.41.23:192][ 62]LogSlate: Took 0.016641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.17-01.41.26:757][261]LogRenderer: Reallocating scene render targets to support 1088x748 Format 10 NumSamples 1 (Frame:197).
+[2019.08.17-01.43.14:316][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x255f4f53f70 [can pipeline])
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.236.205) port 443 (#5))
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.17-01.43.45:131][375]LogHttp: Warning: 00000255993B11C0: libcurl info message cache 7 (Closing connection 5)
+[2019.08.17-01.43.45:147][376]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FB12F2D-455F-7040-F3C0-8FA2D12C59D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.17-01.43.53:114][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-01.43.53:301][843]LogSlate: Window 'BallSphere' being destroyed
+[2019.08.17-01.43.53:311][843]LogSlate: Window 'BallSphere' being destroyed
+[2019.08.17-01.44.32:486][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assests/M_matel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/Assests/M_matel.uasset" SILENT=true
+[2019.08.17-01.44.32:525][  4]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/M_matel0A5831C747DD3DA922EBC9850509548B.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Assests/M_matel.uasset'
+[2019.08.17-01.44.32:668][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.08.17-01.44.32:703][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.08.17-01.44.32:732][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.08.17-01.44.33:902][ 72]LogAssetEditorManager: Opening Asset editor for Material /Game/Assests/M_matel.M_matel
+[2019.08.17-01.44.34:042][ 72]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.44.34:426][ 72]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.44.34:501][ 72]LogSlate: Took 0.006855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.17-01.46.30:411][814]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.46.30:428][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: request failed, libcurl error: 28 (Timeout was reached)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 0 (  Trying 34.236.55.8...)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 2 (connect to 34.236.55.8 port 443 failed: Timed out)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 3 (  Trying 52.71.209.217...)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 5 (After 19484ms connect time, move on!)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 6 (connect to 52.71.209.217 port 443 failed: Timed out)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 7 (  Trying 52.5.92.97...)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 10 (connect to 52.5.92.97 port 443 failed: Timed out)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 11 (  Trying 34.235.243.192...)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 14 (connect to 34.235.243.192 port 443 failed: Timed out)
+[2019.08.17-01.46.45:177][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 15 (  Trying 54.88.106.25...)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 18 (connect to 54.88.106.25 port 443 failed: Timed out)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 19 (  Trying 52.73.244.215...)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 22 (connect to 52.73.244.215 port 443 failed: Timed out)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 23 (  Trying 54.209.62.2...)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 25 (Connected to datarouter.ol.epicgames.com (54.209.62.2) port 443 (#6))
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 26 (ALPN, offering http/1.1)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 27 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 28 (SSL re-using session ID)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 29 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 30 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 31 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 32 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 33 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 34 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 36 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 37 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: 00000255ECC66200: libcurl info message cache 38 (Closing connection 6)
+[2019.08.17-01.46.45:178][682]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FB12F2D-455F-7040-F3C0-8FA2D12C59D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.17-01.47.06:170][930]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.06:192][930]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.06:222][930]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.53:181][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.53:212][636]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.53:319][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.53:351][636]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.53:371][636]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.53:396][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.53:432][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.53:465][636]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.54:957][724]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.54:989][724]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.55:028][725]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.55:060][725]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.55:081][725]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.55:104][725]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.55:140][725]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.55:171][725]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.57:073][838]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.57:105][838]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.57:156][840]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.57:187][840]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.57:207][840]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.47.57:231][840]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.57:267][840]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.47.57:299][840]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.02:066][ 63]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.02:096][ 63]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.02:142][ 65]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.02:172][ 65]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.02:190][ 65]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.02:209][ 65]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.02:243][ 65]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.02:273][ 65]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.03:226][121]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.03:258][121]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.03:299][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.03:330][122]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.03:351][122]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.03:375][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.03:411][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.03:443][122]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.04:481][175]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.04:512][175]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.04:564][177]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.04:596][177]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.04:617][177]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.04:642][177]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.04:676][177]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.04:707][177]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.05:580][228]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.05:612][228]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.05:647][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.05:678][229]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.05:700][229]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.05:725][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.05:761][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.05:792][229]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.07:039][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.07:071][302]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.07:096][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.07:128][302]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.08:150][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.08:182][361]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.08:213][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.48.08:245][361]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.08:262][361]LogSlate: Window '取色器' being destroyed
+[2019.08.17-01.48.34:875][935]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.48.34:898][935]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.17-01.49.34:796][468]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.38:401][682]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.43:076][957]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.43:092][957]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.46:811][179]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.46:830][179]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.49.49:706][350]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.50.03:512][147]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.50.07:655][395]LogMaterialEditor: Saving and Compiling material M_matel
+[2019.08.17-01.50.08:120][395]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.50.08:211][395]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.50.08:233][395]LogMaterial: Display: Missing cached shader map for material M_matel, compiling. 
+[2019.08.17-01.50.08:279][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.17-01.50.08:386][395]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
