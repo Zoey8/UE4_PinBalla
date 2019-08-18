@@ -7274,3 +7274,372 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.18-07.07.01:079][983]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.08.18-07.07.01:110][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_ball" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_ball.uasset" SILENT=true
 [2019.08.18-07.07.01:172][983]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_ballF5D94C1F484CF99A21858ABA261A5863.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_ball.uasset'
+[2019.08.18-07.08.07:376][942]LogEditorViewport: Clicking on Actor (LMB): BP_bumper_C (BP_bumper3)
+[2019.08.18-07.08.09:620][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.08.14:099][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.08.14:195][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.08.14:234][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.18-07.08.14:446][347]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel84A0BCC5466067FAAC857FBD0BC66225.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.08.14:471][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.08.14:514][347]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData55DB0F5D40E9FBABFECA28A5332D1886.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.18-07.08.26:108][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.18-07.08.34:501][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.08.34:550][542]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.08.34:564][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.08.34:564][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.08.34:564][542]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:08:34）
+[2019.08.18-07.08.34:564][542]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.08.34:572][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007764s)
+[2019.08.18-07.08.34:573][542]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.08.34:573][542]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.08.18-07.08.34:573][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.008923s)
+[2019.08.18-07.08.34:609][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.18-07.08.34:619][542]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.08.34:652][542]LogInit: FAudioDevice initialized.
+[2019.08.18-07.08.34:661][542]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.08.34:663][542]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.08.34
+[2019.08.18-07.08.34:663][542]LogWorld: Bringing up level for play took: 0.001194
+[2019.08.18-07.08.34:664][542]LogOnline: OSS: Creating online subsystem instance for: :Context_157
+[2019.08.18-07.08.34:666][542]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.765
+[2019.08.18-07.08.34:666][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.08.59:258][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.08.59:258][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.08.59:258][ 14]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.08.59:259][ 14]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.08.59:269][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.08.59:269][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.08.59:316][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.08.59:320][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.18-07.08.59:372][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2019.08.18-07.09.01:356][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.09.01:431][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.09.01:467][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.08.18-07.09.01:667][139]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevelE118EDCF4896421CF6BED2B6E1B905E5.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.09.01:692][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.09.01:737][139]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData415315784E3EF7A459E5B79DB645F3A4.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.18-07.09.02:581][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.09.02:691][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.09.02:730][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.08.18-07.09.02:930][191]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel2ED520984B9C052458FE8AB52D0B0AFC.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.09.02:955][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.09.02:998][191]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltDataE19E9D2B4C20B595E23C779416B994D2.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 0 (  Trying 34.237.44.165...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 2 (connect to 34.237.44.165 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 3 (  Trying 18.232.220.76...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 5 (After 19492ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 6 (connect to 18.232.220.76 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 7 (  Trying 3.225.87.80...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 10 (connect to 3.225.87.80 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 11 (  Trying 54.85.16.28...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 14 (connect to 54.85.16.28 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 15 (  Trying 54.86.3.71...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 18 (connect to 54.86.3.71 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 19 (  Trying 34.193.236.205...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 22 (connect to 34.193.236.205 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 23 (  Trying 52.1.97.25...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 26 (connect to 52.1.97.25 port 443 failed: Timed out)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 27 (  Trying 52.71.135.85...)
+[2019.08.18-07.09.19:375][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.08.18-07.09.19:376][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 29 (After 296ms connect time, move on!)
+[2019.08.18-07.09.19:376][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 30 (connect to 52.71.135.85 port 443 failed: Timed out)
+[2019.08.18-07.09.19:376][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.08.18-07.09.19:376][168]LogHttp: Warning: 000002EC02B12200: libcurl info message cache 32 (Closing connection 129)
+[2019.08.18-07.09.19:376][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.18-07.10.01:080][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: request failed, libcurl error: 28 (Timeout was reached)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 0 (  Trying 54.88.130.39...)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 2 (connect to 54.88.130.39 port 443 failed: Timed out)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 3 (  Trying 52.4.51.163...)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 5 (After 19484ms connect time, move on!)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 6 (connect to 52.4.51.163 port 443 failed: Timed out)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 7 (  Trying 54.81.81.192...)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 10 (connect to 54.81.81.192 port 443 failed: Timed out)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 11 (  Trying 34.204.212.142...)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (34.204.212.142) port 443 (#130))
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 14 (ALPN, offering http/1.1)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 15 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 16 (SSL re-using session ID)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 19 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.08.18-07.12.19:389][959]LogHttp: Warning: 000002EC02B10B80: libcurl info message cache 20 (Closing connection 130)
+[2019.08.18-07.12.19:406][960]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.18-07.13.56:702][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.14.02:346][886]LogSlate: Window '选取父类' being destroyed
+[2019.08.18-07.14.11:415][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprints/BP_cover.BP_cover
+[2019.08.18-07.14.48:645][588]Cmd: TRANSACTION UNDO
+[2019.08.18-07.14.48:645][588]LogEditorTransaction: Undo 指定新的场景根
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 0 (  Trying 54.88.250.173...)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 2 (connect to 54.88.250.173 port 443 failed: Timed out)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 3 (  Trying 52.86.156.38...)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 5 (After 19484ms connect time, move on!)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 6 (connect to 52.86.156.38 port 443 failed: Timed out)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 7 (  Trying 52.21.4.215...)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 8 (TCP_NODELAY set)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 10 (connect to 52.21.4.215 port 443 failed: Timed out)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 11 (  Trying 52.6.79.2...)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 14 (connect to 52.6.79.2 port 443 failed: Timed out)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 15 (  Trying 52.203.187.25...)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2019.08.18-07.15.19:132][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 18 (connect to 52.203.187.25 port 443 failed: Timed out)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 19 (  Trying 18.214.237.224...)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 22 (connect to 18.214.237.224 port 443 failed: Timed out)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 23 (  Trying 52.203.204.201...)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 26 (connect to 52.203.204.201 port 443 failed: Timed out)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 27 (  Trying 3.214.239.133...)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 30 (connect to 3.214.239.133 port 443 failed: Timed out)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.08.18-07.15.19:133][373]LogHttp: Warning: 000002ECE317AD40: libcurl info message cache 32 (Closing connection 131)
+[2019.08.18-07.15.19:148][374]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.18-07.15.33:119][195]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.15.44:167][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.16.11:652][434]BlueprintLog: New page: 编译BP_cover
+[2019.08.18-07.16.11:857][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.08.18-07.16.12:417][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_cover" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_cover.uasset" SILENT=true
+[2019.08.18-07.16.12:433][460]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_cover597EF21C49E08ED75AF89A9A1456AF91.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_cover.uasset'
+[2019.08.18-07.16.49:778][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.17.05:358][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.17.35:980][327]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.17.49:226][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.17.50:719][207]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.18.02:427][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.18.11:206][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.18.11:301][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.18.11:346][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.08.18-07.18.11:617][440]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel33178C6A441EB9F0E2401ABC9668110D.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.18.11:652][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.18.11:747][440]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltDataE210E6F949F963C5AFF3599169CBD70F.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.18-07.18.12:557][486]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.18.18:068][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.18.18:134][821]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.18.18:150][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.18.18:150][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.18.18:150][821]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:18:18）
+[2019.08.18-07.18.18:151][821]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.18.18:159][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007825s)
+[2019.08.18-07.18.18:159][821]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.18.18:160][821]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2019.08.18-07.18.18:160][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.009125s)
+[2019.08.18-07.18.18:199][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.18-07.18.18:210][821]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.18.18:240][821]LogInit: FAudioDevice initialized.
+[2019.08.18-07.18.18:248][821]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.18.18:250][821]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.18.18
+[2019.08.18-07.18.18:250][821]LogWorld: Bringing up level for play took: 0.001230
+[2019.08.18-07.18.18:250][821]LogOnline: OSS: Creating online subsystem instance for: :Context_159
+[2019.08.18-07.18.18:253][821]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间0.822
+[2019.08.18-07.18.18:253][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.18.23:896][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.18.23:896][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.18.23:896][155]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.18.23:896][155]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.18.23:913][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.18.23:913][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.18.23:959][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.18.23:964][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.08.18-07.18.23:999][157]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2019.08.18-07.18.31:360][598]LogEditorViewport: Clicking on Actor (LMB): BP_cover_C (BP_cover)
+[2019.08.18-07.18.39:641][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.18.45:902][463]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.19.07:117][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.19.07:198][736]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.19.07:211][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.07:211][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.19.07:211][736]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:19:07）
+[2019.08.18-07.19.07:211][736]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.19.07:220][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009162s)
+[2019.08.18-07.19.07:222][736]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.19.07:222][736]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2019.08.18-07.19.07:222][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.010568s)
+[2019.08.18-07.19.07:266][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.18-07.19.07:278][736]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.19.07:310][736]LogInit: FAudioDevice initialized.
+[2019.08.18-07.19.07:318][736]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.19.07:319][736]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.19.07
+[2019.08.18-07.19.07:320][736]LogWorld: Bringing up level for play took: 0.001205
+[2019.08.18-07.19.07:320][736]LogOnline: OSS: Creating online subsystem instance for: :Context_160
+[2019.08.18-07.19.07:322][736]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.109
+[2019.08.18-07.19.07:323][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.38:123][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.38:123][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.19.38:123][579]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.19.38:123][579]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.19.38:140][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.19.38:140][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.38:185][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.19.38:189][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.08.18-07.19.38:226][581]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2019.08.18-07.19.39:167][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.19.39:216][640]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.19.39:227][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.39:227][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.19.39:227][640]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:19:39）
+[2019.08.18-07.19.39:228][640]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.19.39:235][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007710s)
+[2019.08.18-07.19.39:236][640]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.19.39:237][640]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2019.08.18-07.19.39:237][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.009137s)
+[2019.08.18-07.19.39:273][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.08.18-07.19.39:281][640]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.19.39:307][640]LogInit: FAudioDevice initialized.
+[2019.08.18-07.19.39:322][640]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.19.39:324][640]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.19.39
+[2019.08.18-07.19.39:324][640]LogWorld: Bringing up level for play took: 0.001109
+[2019.08.18-07.19.39:324][640]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2019.08.18-07.19.39:326][640]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.105
+[2019.08.18-07.19.39:327][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.49:957][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.49:958][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.19.49:958][275]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.19.49:958][275]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.19.49:970][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.19.49:970][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.50:015][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.19.50:018][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.18-07.19.50:069][278]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2019.08.18-07.19.50:753][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.19.50:836][324]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.19.50:847][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.19.50:847][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.19.50:847][324]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:19:50）
+[2019.08.18-07.19.50:848][324]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.19.50:856][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008150s)
+[2019.08.18-07.19.50:857][324]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.19.50:857][324]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2019.08.18-07.19.50:857][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.009225s)
+[2019.08.18-07.19.50:898][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.18-07.19.50:907][324]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.19.50:933][324]LogInit: FAudioDevice initialized.
+[2019.08.18-07.19.50:941][324]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.19.50:943][324]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.19.50
+[2019.08.18-07.19.50:944][324]LogWorld: Bringing up level for play took: 0.001316
+[2019.08.18-07.19.50:944][324]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2019.08.18-07.19.50:945][324]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.485
+[2019.08.18-07.19.50:946][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: request failed, libcurl error: 28 (Timeout was reached)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 0 (Connection 132 seems to be dead!)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 1 (Closing connection 132)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 3 (  Trying 54.165.238.255...)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 5 (connect to 54.165.238.255 port 443 failed: Timed out)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 6 (  Trying 34.232.136.228...)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 8 (After 19484ms connect time, move on!)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 9 (connect to 34.232.136.228 port 443 failed: Timed out)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 10 (  Trying 23.20.51.18...)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 13 (connect to 23.20.51.18 port 443 failed: Timed out)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 14 (  Trying 54.88.198.7...)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 17 (connect to 54.88.198.7 port 443 failed: Timed out)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 18 (  Trying 34.236.85.100...)
+[2019.08.18-07.20.02:581][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 20 (After 2429ms connect time, move on!)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 21 (connect to 34.236.85.100 port 443 failed: Timed out)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 22 (  Trying 54.175.157.122...)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 24 (Connected to datarouter.ol.epicgames.com (54.175.157.122) port 443 (#133))
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 25 (ALPN, offering http/1.1)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 26 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 27 (SSL re-using session ID)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 28 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 29 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 30 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 31 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 32 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 33 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 34 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 36 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: 000002ECF38A3B00: libcurl info message cache 37 (Closing connection 133)
+[2019.08.18-07.20.02:582][ 16]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04338E96-48B4-3361-8CBF-AF94B135E868%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.18-07.20.31:996][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.20.31:996][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.20.31:996][780]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.20.31:996][780]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.20.32:009][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.20.32:009][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.20.32:051][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.20.32:055][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.08.18-07.20.32:106][783]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2019.08.18-07.20.36:198][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.20.52:280][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.21.09:452][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.21.09:546][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.21.09:589][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.08.18-07.21.09:798][ 27]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel2E7B58D1445C2868FA4B1DAD159A4230.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.21.09:822][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.21.09:870][ 27]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData8F5BE3174B1D8FE790F40BA7EEB3D5BB.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.18-07.21.11:553][126]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.18-07.21.12:884][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.21.12:950][210]LogTemp: Repeating last play command: 选中的视口
+[2019.08.18-07.21.12:964][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.21.12:964][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-07.21.12:964][210]PIE: New page: PIE会话：mainlevel（2019年8月18日 下午11:21:12）
+[2019.08.18-07.21.12:965][210]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.21.12:972][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007731s)
+[2019.08.18-07.21.12:973][210]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.18-07.21.12:973][210]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2019.08.18-07.21.12:973][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.008941s)
+[2019.08.18-07.21.13:011][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.18-07.21.13:020][210]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.18-07.21.13:046][210]LogInit: FAudioDevice initialized.
+[2019.08.18-07.21.13:057][210]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.18-07.21.13:059][210]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.18-15.21.13
+[2019.08.18-07.21.13:059][210]LogWorld: Bringing up level for play took: 0.001358
+[2019.08.18-07.21.13:060][210]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2019.08.18-07.21.13:062][210]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.369
+[2019.08.18-07.21.13:062][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.22.09:328][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.22.09:328][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.22.09:328][578]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.18-07.22.09:328][578]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.18-07.22.09:344][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-07.22.09:344][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.18-07.22.09:391][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-07.22.09:395][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.18-07.22.09:429][580]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2019.08.18-07.22.10:514][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-07.22.10:611][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-07.22.10:651][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.18-07.22.10:861][649]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel17973555420EE6C38BA7FE9DA4513AD9.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.18-07.22.10:887][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.18-07.22.10:940][649]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData726C84B34900E7F50DB34F8AD4ACE051.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
