@@ -1,0 +1,1409 @@
+﻿Log file open, 08/19/19 09:39:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 三维弹球
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165208
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-7948402
+LogInit: Engine Version: 4.23.0-7948402+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-7948402+++UE4+Release-4.23
+LogInit: Net CL: 7948402
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 12 2019 02:04:59
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.19-01.39.50:016][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.19-01.39.50:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:017][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:022][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.19-01.39.50:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.19-01.39.50:023][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.19-01.39.50:023][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-01.39.50:023][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.19-01.39.50:029][  0]LogHAL: Display: Platform has ~ 16 GB [17057816576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.19-01.39.50:029][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.19-01.39.50:029][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.19-01.39.50:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.19-01.39.50:030][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.19-01.39.50:031][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ACER/Desktop/ball/三维弹球/Saved/Config/Windows/Engine.ini]
+[2019.08.19-01.39.50:031][  0]LogInit: Computer: PREOATOR
+[2019.08.19-01.39.50:031][  0]LogInit: User: ACER
+[2019.08.19-01.39.50:031][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.19-01.39.50:031][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2019.08.19-01.39.50:031][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.19-01.39.50:031][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.19-01.39.50:031][  0]LogMemory: Process Physical Memory: 101.07 MB used, 101.07 MB peak
+[2019.08.19-01.39.50:031][  0]LogMemory: Process Virtual Memory: 101.10 MB used, 101.10 MB peak
+[2019.08.19-01.39.50:031][  0]LogMemory: Physical Memory: 4960.77 MB used,  11306.84 MB free, 16267.60 MB total
+[2019.08.19-01.39.50:031][  0]LogMemory: Virtual Memory: 4689.00 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.08.19-01.39.50:037][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.08.19-01.39.50:106][  0]LogInit: Using OS detected language (zh-CN).
+[2019.08.19-01.39.50:106][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.08.19-01.39.50:107][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.08.19-01.39.50:107][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-01.39.50:107][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.08.19-01.39.50:108][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.08.19-01.39.50:108][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.08.19-01.39.50:108][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-01.39.50:108][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.08.19-01.39.50:108][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-01.39.50:109][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-01.39.50:109][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-01.39.50:109][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-01.39.50:180][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-01.39.50:180][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-01.39.50:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-01.39.50:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-01.39.50:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-01.39.50:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.08.19-01.39.50:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.08.19-01.39.50:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-01.39.50:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-01.39.50:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-01.39.50:185][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-01.39.50:222][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.19-01.39.50:279][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.19-01.39.50:279][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.19-01.39.50:558][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.19-01.39.50:558][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.19-01.39.50:675][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.08.19-01.39.50:675][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.19-01.39.50:696][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.19-01.39.50:696][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.19-01.39.50:701][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.19-01.39.50:701][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.19-01.39.50:705][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.19-01.39.50:705][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.19-01.39.50:705][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.19-01.39.50:753][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.19-01.39.50:753][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.19-01.39.50:753][  0]LogWindows: EnumDisplayDevices:
+[2019.08.19-01.39.50:753][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.19-01.39.50:754][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.19-01.39.50:755][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.19-01.39.50:756][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.19-01.39.50:757][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.19-01.39.50:757][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.19-01.39.50:758][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.08.19-01.39.50:758][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:759][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:760][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:761][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:761][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:762][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:763][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:764][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:765][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:766][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:767][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:768][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:769][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:770][  0]LogWindows:    20. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:771][  0]LogWindows:    21. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:772][  0]LogWindows:    22. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.08.19-01.39.50:773][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.19-01.39.50:773][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.08.19-01.39.50:773][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.19-01.39.50:773][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.19-01.39.50:773][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.08.19-01.39.50:837][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.19-01.39.50:850][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.19-01.39.51:390][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.19-01.39.51:403][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.19-01.39.51:414][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.19-01.39.51:430][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.19-01.39.51:441][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.19-01.39.51:452][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.19-01.39.51:465][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.19-01.39.51:476][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.19-01.39.51:482][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.19-01.39.51:527][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.19-01.39.51:527][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.19-01.39.51:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.19-01.39.51:532][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.19-01.39.51:557][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.19-01.39.51:557][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.19-01.39.51:583][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.19-01.39.51:583][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.19-01.39.51:594][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.19-01.39.51:607][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.19-01.39.51:618][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.19-01.39.51:634][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.19-01.39.51:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.19-01.39.51:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.19-01.39.51:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.19-01.39.51:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.19-01.39.51:801][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (C:/Users/ACER/Desktop/ball/三维弹球/Intermediate/Shaders/WorkingDirectory/2656/).
+[2019.08.19-01.39.51:801][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ACER/AppData/Local/Temp/UnrealShaderWorkingDir/CB93016645EA53A7112134A4BDB65C34/'.
+[2019.08.19-01.39.51:804][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.08.19-01.39.52:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.19-01.39.52:718][  0]LogDerivedDataCache: Loaded boot cache 0.08s 76MB C:/Users/ACER/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.08.19-01.39.52:718][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ACER/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.08.19-01.39.52:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ACER/Desktop/ball/三维弹球/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.19-01.39.52:719][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.19-01.39.52:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ACER/Desktop/ball/三维弹球/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.19-01.39.52:719][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.19-01.39.52:733][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.19-01.39.52:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.19-01.39.52:734][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.19-01.39.52:737][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ACER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.19-01.39.52:737][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.19-01.39.52:737][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.19-01.39.52:766][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.19-01.39.52:769][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.19-01.39.52:769][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.19-01.39.52:841][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2019.08.19-01.39.53:221][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-01.39.53:452][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.19-01.39.53:452][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.19-01.39.53:452][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.19-01.39.53:452][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.19-01.39.53:452][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.19-01.39.53:466][  0]LogNetVersion: 三维弹球 1.0.0, NetCL: 7948402, EngineNetVer: 11, GameNetVer: 0 (Checksum: 553077436)
+[2019.08.19-01.39.54:457][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 4 prioritized culture(s) in 0.434507 seconds
+[2019.08.19-01.39.54:468][  0]LogUObjectArray: 43368 objects as part of root set at end of initial load.
+[2019.08.19-01.39.54:468][  0]LogUObjectAllocator: 7536104 out of 0 bytes used by permanent object pool.
+[2019.08.19-01.39.54:468][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.19-01.39.55:814][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.19-01.39.55:819][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.19-01.39.55:926][  0]SourceControl: 源码管理已禁用
+[2019.08.19-01.39.55:926][  0]SourceControl: 源码管理已禁用
+[2019.08.19-01.39.55:932][  0]SourceControl: 源码管理已禁用
+[2019.08.19-01.39.55:935][  0]SourceControl: 源码管理已禁用
+[2019.08.19-01.39.56:140][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.19-01.39.56:336][  0]LogOcInput: OculusInput pre-init called
+[2019.08.19-01.39.57:204][  0]LogEngine: Initializing Engine...
+[2019.08.19-01.39.57:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.19-01.39.57:208][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.19-01.39.57:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.19-01.39.57:522][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.19-01.39.57:539][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-01.39.58:453][  0]LogInit: FAudioDevice initialized.
+[2019.08.19-01.39.58:453][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.19-01.39.58:553][  0]LogDerivedDataCache: Saved boot cache 0.10s 76MB C:/Users/ACER/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.08.19-01.39.58:564][  0]LogInit: Texture streaming: Enabled
+[2019.08.19-01.39.58:596][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.19-01.39.58:597][  0]LogEngineSessionManager: EngineSessionManager sent report. Event=SessionSummary, Type=AbnormalShutdown, SessionId={10A3957D-4A3F-89F3-8B0A-BB82063E745F}
+[2019.08.19-01.39.58:644][  0]LogInit: Transaction tracking system initialized
+[2019.08.19-01.39.58:683][  0]BlueprintLog: New page: 编辑器加载
+[2019.08.19-01.39.58:787][  0]LocalizationService: 本地化服务已禁用
+[2019.08.19-01.39.59:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/' took 0.01s
+[2019.08.19-01.39.59:180][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.19-01.39.59:180][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.19-01.40.01:484][  0]SourceControl: 源码管理已禁用
+[2019.08.19-01.40.01:484][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-01.40.01:485][  0]LightingResults: New page: 光照构建
+[2019.08.19-01.40.01:488][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-01.40.01:488][  0]MapCheck: New page: 地图检测
+[2019.08.19-01.40.01:488][  0]LightingResults: New page: 光照构建
+[2019.08.19-01.40.01:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.08.19-01.40.01:696][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.19-01.40.01:725][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-01.40.01:764][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.19-01.40.01:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-01.40.01:766][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.875毫秒。
+[2019.08.19-01.40.01:766][  0]LogFileHelpers: Loading map 'Template_Default' took 0.281
+[2019.08.19-01.40.01:932][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.40.01:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.40.01:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.40.01:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.40.01:983][  0]LogCollectionManager: Loaded 0 collections in 0.001433 seconds
+[2019.08.19-01.40.01:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Collections/' took 0.00s
+[2019.08.19-01.40.01:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Developers/ACER/Collections/' took 0.00s
+[2019.08.19-01.40.01:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Collections/' took 0.00s
+[2019.08.19-01.40.01:994][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.08.19-01.40.02:005][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2861 classes and 680 folders.
+[2019.08.19-01.40.02:017][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-01.40.02:088][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-01.40.02:097][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.19-01.40.02:198][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.19-01.40.02:200][  0]LogSlate: Took 0.002312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.19-01.40.02:202][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.19-01.40.02:209][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.19-01.40.02:323][  0]LogRenderer: Reallocating scene render targets to support 884x460 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-01.40.02:500][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-01.40.02:500][  0]LogLoad: (Engine Initialization) Total time: 14.43 seconds
+[2019.08.19-01.40.02:500][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.19-01.40.02:527][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.08.19-01.40.02:579][  0]LogAssetRegistry: Asset discovery search completed in 9.7397 seconds
+[2019.08.19-01.40.02:582][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2019.08.19-01.40.02:582][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.08.19-01.40.02:584][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.19-01.40.02:614][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-01.40.04:621][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.40.06:212][208]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-01.40.06:407][208]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-01.40.06:419][208]LogAssetEditorManager: Opening Asset editor for World /Game/maps/mainlevel.mainlevel
+[2019.08.19-01.40.06:448][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.19-01.40.06:450][208]Cmd: MAP LOAD FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-01.40.06:450][208]LightingResults: New page: 光照构建
+[2019.08.19-01.40.06:450][208]LoadErrors: New page: 正在加载地图：mainlevel.umap
+[2019.08.19-01.40.06:451][208]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-01.40.06:451][208]MapCheck: New page: 地图检测
+[2019.08.19-01.40.06:451][208]LightingResults: New page: 光照构建
+[2019.08.19-01.40.06:476][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.08.19-01.40.06:553][208]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-01.40.06:580][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.19-01.40.06:598][208]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-01.40.06:598][208]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.503毫秒。
+[2019.08.19-01.40.06:598][208]LogFileHelpers: Loading map 'mainlevel' took 0.150
+[2019.08.19-01.40.12:629][556]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assests/SM_PostHalf.SM_PostHalf
+[2019.08.19-01.40.13:118][556]LogRenderer: Reallocating scene render targets to support 1088x748 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-01.40.13:118][556]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.19-01.40.15:646][701]LogSlate: Window 'SM_PostHalf' being destroyed
+[2019.08.19-01.40.15:654][701]LogSlate: Window 'SM_PostHalf' being destroyed
+[2019.08.19-01.40.15:665][701]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-01.40.21:875][ 65]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprints/BP_post.BP_post
+[2019.08.19-01.40.22:130][ 65]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.08.19-01.40.23:030][ 65]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-01.42.08:844][373]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-01.42.10:275][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.42.37:898][115]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post2)
+[2019.08.19-01.42.45:222][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.43.05:147][749]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-01.44.11:433][717]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-01.44.51:323][108]LogTemp: Repeating last play command: 选中的视口
+[2019.08.19-01.44.51:331][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.44.51:331][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-01.44.51:331][108]PIE: New page: PIE会话：mainlevel（2019年8月19日 下午5:44:51）
+[2019.08.19-01.44.51:332][108]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.08.19-01.44.51:334][108]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-01.44.51:342][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008242s)
+[2019.08.19-01.44.51:344][108]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-01.44.51:344][108]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2019.08.19-01.44.51:344][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.010301s)
+[2019.08.19-01.44.51:390][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.08.19-01.44.51:402][108]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-01.44.51:433][108]LogInit: FAudioDevice initialized.
+[2019.08.19-01.44.51:451][108]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.19-01.44.51:454][108]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.19-09.44.51
+[2019.08.19-01.44.51:455][108]LogWorld: Bringing up level for play took: 0.001629
+[2019.08.19-01.44.51:455][108]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.08.19-01.44.51:463][108]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.19-01.44.51:464][108]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.57
+[2019.08.19-01.44.51:465][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.44.55:386][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.44.55:386][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.44.55:386][307]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-01.44.55:387][307]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-01.44.55:397][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-01.44.55:397][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.44.55:439][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.44.55:465][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.08.19-01.44.55:500][308]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.19-01.44.56:464][365]LogTemp: Repeating last play command: 选中的视口
+[2019.08.19-01.44.56:472][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.44.56:472][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-01.44.56:472][365]PIE: New page: PIE会话：mainlevel（2019年8月19日 下午5:44:56）
+[2019.08.19-01.44.56:472][365]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-01.44.56:480][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008006s)
+[2019.08.19-01.44.56:481][365]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-01.44.56:583][365]LogPlayLevel: PIE: World Init took: (0.102839s)
+[2019.08.19-01.44.56:584][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.111050s)
+[2019.08.19-01.44.56:620][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.19-01.44.56:630][365]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-01.44.56:657][365]LogInit: FAudioDevice initialized.
+[2019.08.19-01.44.56:675][365]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.19-01.44.56:677][365]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.19-09.44.56
+[2019.08.19-01.44.56:677][365]LogWorld: Bringing up level for play took: 0.001206
+[2019.08.19-01.44.56:677][365]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.08.19-01.44.56:680][365]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间0.645
+[2019.08.19-01.44.56:680][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.45.02:359][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.45.02:359][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.45.02:359][703]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-01.45.02:360][703]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-01.45.02:369][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-01.45.02:369][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-01.45.02:411][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-01.45.02:415][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.08.19-01.45.02:467][705]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.19-01.45.05:514][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset" SILENT=true
+[2019.08.19-01.45.05:588][877]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_post3B8513B54825D612E55595A9A25EDC75.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset'
+[2019.08.19-01.45.06:690][939]BlueprintLog: New page: 编译BP_post
+[2019.08.19-01.45.06:915][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.08.19-01.45.17:746][585]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-01.48.39:950][589]BlueprintLog: New page: 编译BP_post
+[2019.08.19-01.48.40:241][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.08.19-01.48.53:299][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset" SILENT=true
+[2019.08.19-01.48.53:383][363]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_postA13F399F4AB6A7F3B3E73C94DFDBFA96.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset'
+[2019.08.19-01.49.08:188][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.49.08:283][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-01.49.08:326][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.08.19-01.49.08:582][246]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel273E953444A673537209E39BF09950CC.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-01.49.08:607][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.19-01.49.08:672][246]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData47E7089148DC9AF109BF8CB7FB2EE6EF.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.19-01.56.53:504][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset" SILENT=true
+[2019.08.19-01.56.53:613][801]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_post3093C7F142FD443E9ECB56A20F4B1F20.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset'
+[2019.08.19-01.56.58:136][ 63]BlueprintLog: New page: 编译BP_post
+[2019.08.19-01.56.58:409][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.08.19-01.57.08:945][691]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post2)
+[2019.08.19-01.57.12:417][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.57.13:634][971]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post2)
+[2019.08.19-01.57.45:816][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.19-01.57.50:638][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-01.57.50:714][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-01.57.50:765][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.08.19-01.57.51:107][189]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevelCBDFD5294621948CBAC079BF6B37622A.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-01.57.51:138][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.19-01.57.51:216][189]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltData218E480C48496FBD5CDDED8AB3B914F2.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.19-01.57.53:069][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20ab9687f70 [can pipeline])
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.250.173) port 443 (#8))
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.19-01.59.02:993][415]LogHttp: Warning: 0000020B4E603100: libcurl info message cache 7 (Closing connection 8)
+[2019.08.19-01.59.03:010][416]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.19-02.01.20:515][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset" SILENT=true
+[2019.08.19-02.01.20:594][617]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_postBD9560014014032636649B981BAF4A3C.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset'
+[2019.08.19-02.01.30:960][233]BlueprintLog: New page: 编译BP_post
+[2019.08.19-02.01.31:267][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.08.19-02.07.22:367][ 47]BlueprintLog: New page: 编译BP_post
+[2019.08.19-02.07.22:477][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.07.22:477][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.07.22:709][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.08.19-02.07.22:712][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.07.22:712][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.07.22:712][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.07.22:712][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.07.22:721][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.07.22:721][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.07.22:721][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.07.22:721][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.07.26:496][269]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post2)
+[2019.08.19-02.07.57:971][155]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.19-02.07.58:127][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.08.19-02.07.58:129][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/maps/mainlevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.19-02.07.58:384][155]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_Auto165B927844DC958BEEDAA48889EC8F22A.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/maps/mainlevel_Auto1.umap'
+[2019.08.19-02.07.58:391][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.305
+[2019.08.19-02.07.58:391][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2019.08.19-02.07.58:394][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/BP_post] ([1] browsable assets)...
+[2019.08.19-02.07.58:423][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_post.BP_post]
+[2019.08.19-02.07.58:423][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_post]
+[2019.08.19-02.07.58:423][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_post_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.19-02.07.58:500][155]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_post_Auto1145580014CC891772E5EC1A41A31E15A.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_post_Auto1.uasset'
+[2019.08.19-02.07.58:504][155]LogFileHelpers: Auto-saving content packages took 0.111
+[2019.08.19-02.08.03:237][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.19-02.08.03:262][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-02.08.03:303][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.08.19-02.08.03:587][434]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevelC0E9CE784912BA13BA5F78984D711FEA.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-02.08.03:616][434]LogFileHelpers: Saving map 'mainlevel' took 0.355
+[2019.08.19-02.08.03:620][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_post" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset" SILENT=true
+[2019.08.19-02.08.03:697][434]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_post2924E55746190F4103F096ACF1228B91.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_post.uasset'
+[2019.08.19-02.17.03:093][333]LogHttp: Warning: 0000020B577C8F40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.19-02.17.03:094][333]LogHttp: Warning: 0000020B577C8F40: request failed, libcurl error: 0 (No error)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20ab9687f70 [can pipeline])
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.2.137) port 443 (#16))
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 7 (Closing connection 16)
+[2019.08.19-02.17.03:095][333]LogHttp: Warning: 0000020B577C8F40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.19-02.17.03:425][334]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.19-02.19.09:728][ 60]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ACER/Desktop/utf-8' 'PinballAssets/PinballAssets/PinballAssets/SM_DropTarget.FBX)
+[2019.08.19-02.19.09:750][ 60]LogFbx: Loading FBX Scene from C:/Users/ACER/Desktop/utf-8' 'PinballAssets/PinballAssets/PinballAssets/SM_DropTarget.FBX
+[2019.08.19-02.19.09:759][ 60]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.19-02.19.17:218][ 60]LogSlate: Window 'FBX导入选项' being destroyed
+[2019.08.19-02.19.17:266][ 60]LogStaticMesh: 正在构建静态网格体SM_DropTarget……
+[2019.08.19-02.19.17:279][ 60]LogStaticMesh: Built static mesh [0.01s] /Game/Assests/SM_DropTarget.SM_DropTarget
+[2019.08.19-02.19.17:293][ 60]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2019.08.19-02.19.19:725][170]LogSlate: Window '消息日志' being destroyed
+[2019.08.19-02.19.19:730][170]LogSlate: Window '消息日志' being destroyed
+[2019.08.19-02.19.20:999][234]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2019.08.19-02.19.21:001][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.171
+[2019.08.19-02.19.21:007][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assests/SM_DropTarget] ([1] browsable assets)...
+[2019.08.19-02.19.21:040][234]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assests/SM_DropTarget.SM_DropTarget]
+[2019.08.19-02.19.21:040][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assests/SM_DropTarget]
+[2019.08.19-02.19.21:040][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assests/SM_DropTarget" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/Assests/SM_DropTarget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.19-02.19.21:059][234]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/SM_DropTarget_Auto211407610451B8347216292B10A244E6B.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/Assests/SM_DropTarget_Auto2.uasset'
+[2019.08.19-02.19.21:063][234]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.08.19-02.19.30:993][819]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assests/SM_DropTarget.SM_DropTarget
+[2019.08.19-02.19.36:105][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assests/SM_DropTarget" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/Assests/SM_DropTarget.uasset" SILENT=true
+[2019.08.19-02.19.36:124][ 93]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/SM_DropTarget03CBB5F24A3BFFC0D8909A8AC2CFA08E.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/Assests/SM_DropTarget.uasset'
+[2019.08.19-02.19.39:018][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.19.39:104][270]LogSlate: Window 'SM_DropTarget' being destroyed
+[2019.08.19-02.19.39:111][270]LogSlate: Window 'SM_DropTarget' being destroyed
+[2019.08.19-02.19.39:121][270]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-02.19.39:274][270]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-02.20.41:227][880]LogSlate: Window '选取父类' being destroyed
+[2019.08.19-02.20.58:811][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprints/BP_drop_target.BP_drop_target
+[2019.08.19-02.21.42:406][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-02.22.11:626][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.22.44:674][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.22.57:928][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.23.12:608][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.23.50:868][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.19-02.23.57:323][468]LogSlate: Window '取色器' being destroyed
+[2019.08.19-02.24.07:436][ 72]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-02.24.08:509][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.24.08:574][140]Cmd: MODE GRID=0
+[2019.08.19-02.24.12:168][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.24.22:917][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.24.23:029][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset" SILENT=true
+[2019.08.19-02.24.23:062][953]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_targetEDB146374F6353310D7F6C8763268298.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset'
+[2019.08.19-02.24.25:085][ 71]Cmd: MODE GRID=1
+[2019.08.19-02.24.57:385][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.24.57:450][  7]BlueprintLog: New page: 编译BP_drop_target
+[2019.08.19-02.24.57:908][  7]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.08.19-02.29.07:508][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset" SILENT=true
+[2019.08.19-02.29.07:605][530]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_targetA17E063744F329479C5DD0A59592C198.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset'
+[2019.08.19-02.32.02:681][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.08.19-02.32.02:681][690]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.076
+[2019.08.19-02.32.02:684][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/BP_drop_target] ([1] browsable assets)...
+[2019.08.19-02.32.02:716][690]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_drop_target.BP_drop_target]
+[2019.08.19-02.32.02:716][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_drop_target]
+[2019.08.19-02.32.02:716][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.19-02.32.02:809][690]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_Auto309FBB66E4ED2A389974D1D85C498A5D1.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_Auto3.uasset'
+[2019.08.19-02.32.02:813][690]LogFileHelpers: Auto-saving content packages took 0.130
+[2019.08.19-02.32.16:059][477]BlueprintLog: New page: 编译BP_drop_target
+[2019.08.19-02.32.16:303][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.08.19-02.32.28:541][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.32.33:110][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.32.38:493][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.32.43:948][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.32.44:014][110]LogTemp: Repeating last play command: 选中的视口
+[2019.08.19-02.32.44:032][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.32.44:033][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-02.32.44:033][110]PIE: New page: PIE会话：mainlevel（2019年8月19日 下午6:32:44）
+[2019.08.19-02.32.44:033][110]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-02.32.44:046][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012818s)
+[2019.08.19-02.32.44:047][110]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-02.32.44:048][110]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2019.08.19-02.32.44:048][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.014341s)
+[2019.08.19-02.32.44:090][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.08.19-02.32.44:102][110]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-02.32.44:142][110]LogInit: FAudioDevice initialized.
+[2019.08.19-02.32.44:158][110]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.19-02.32.44:162][110]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.19-10.32.44
+[2019.08.19-02.32.44:263][110]LogWorld: Bringing up level for play took: 0.103051
+[2019.08.19-02.32.44:264][110]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.08.19-02.32.44:268][110]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间0.233
+[2019.08.19-02.32.44:268][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.19:902][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.19:902][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-02.33.19:902][227]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-02.33.19:902][227]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-02.33.19:915][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-02.33.19:915][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.19:959][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-02.33.19:962][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.08.19-02.33.20:014][230]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.19-02.33.21:332][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.33.21:415][314]LogTemp: Repeating last play command: 选中的视口
+[2019.08.19-02.33.21:424][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.21:424][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-02.33.21:424][314]PIE: New page: PIE会话：mainlevel（2019年8月19日 下午6:33:21）
+[2019.08.19-02.33.21:424][314]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-02.33.21:433][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008064s)
+[2019.08.19-02.33.21:434][314]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-02.33.21:434][314]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2019.08.19-02.33.21:434][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.009465s)
+[2019.08.19-02.33.21:467][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.19-02.33.21:478][314]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-02.33.21:508][314]LogInit: FAudioDevice initialized.
+[2019.08.19-02.33.21:520][314]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.19-02.33.21:522][314]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.19-10.33.21
+[2019.08.19-02.33.21:523][314]LogWorld: Bringing up level for play took: 0.001306
+[2019.08.19-02.33.21:523][314]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.08.19-02.33.21:525][314]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.509
+[2019.08.19-02.33.21:526][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.37:092][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.37:092][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-02.33.37:092][238]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-02.33.37:093][238]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-02.33.37:107][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-02.33.37:107][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-02.33.37:147][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-02.33.37:150][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.19-02.33.37:205][241]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.19-02.33.43:289][606]LogEditorViewport: Clicking on Actor (LMB): BP_drop_target_C (BP_drop_target)
+[2019.08.19-02.33.44:428][673]Cmd: DELETE
+[2019.08.19-02.33.44:428][673]Cmd: ACTOR DELETE
+[2019.08.19-02.33.44:431][673]LogEditorActor: Deleted Actor: BP_drop_target_C
+[2019.08.19-02.33.44:467][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.19-02.33.44:468][673]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.08.19-02.33.48:124][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.33.48:201][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-02.33.48:235][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.08.19-02.33.48:462][895]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel092F153249A549C88D000E91F140939F.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-02.33.48:487][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.19-02.33.48:552][895]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltDataA3A23E6347CC0FA871C21B9C18DE5DA0.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.19-02.33.51:573][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.08.19-02.33.51:613][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset" SILENT=true
+[2019.08.19-02.33.51:708][ 67]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_targetA409057544A94D15328EAF85A8A00DBF.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset'
+[2019.08.19-02.34.13:109][343]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post2)
+[2019.08.19-02.34.14:752][440]Cmd: DELETE
+[2019.08.19-02.34.14:752][440]Cmd: ACTOR DELETE
+[2019.08.19-02.34.14:753][440]LogEditorActor: Deleted Actor: BP_post_C
+[2019.08.19-02.34.14:787][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.19-02.34.14:787][440]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.08.19-02.34.24:338][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.34.55:136][817]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprints/BP_drop_target_set.BP_drop_target_set
+[2019.08.19-02.34.55:572][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.34.55:572][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.34.55:573][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-02.34.55:573][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-02.35.36:252][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.36.57:035][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-02.37.04:711][505]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.19-02.37.19:972][399]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-02.37.20:224][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.08.19-02.42.34:070][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-02.42.34:106][ 81]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set3402D4694543C013C76950AA94ECB1B5.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-02.44.12:943][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.08.19-02.44.12:945][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/maps/mainlevel_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.19-02.44.13:202][ 34]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_Auto457819CB54ED2D4FC4DCAD2B0E0742F65.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/maps/mainlevel_Auto4.umap'
+[2019.08.19-02.44.13:210][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.305
+[2019.08.19-02.44.13:210][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2019.08.19-02.44.35:832][336]LogSlate: Took 0.025959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2019.08.19-02.44.38:796][497]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.100129 seconds
+[2019.08.19-02.44.38:796][497]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.08.19-02.44.38:796][497]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.08.19-02.44.39:597][498]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.19-02.44.39:600][498]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.19-02.44.39:609][498]LogSlate: Took 0.006595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.19-02.44.39:614][498]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.19-02.44.39:616][498]LogSlate: Took 0.000594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-02.44.39:623][498]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-02.44.41:898][634]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.08.19-02.44.41:904][634]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.08.19-02.52.44:189][904]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2019.08.19-02.52.54:726][519]LogPackageLocalizationCache: Processed 12 localized package path(s) for 4 prioritized culture(s) in 0.249533 seconds
+[2019.08.19-02.52.54:726][519]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.08.19-02.52.54:840][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.08.19-02.52.54:840][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.08.19-02.52.54:841][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-02.52.54:842][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-02.52.54:842][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-02.52.54:842][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-02.52.54:886][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.08.19-02.52.54:887][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.08.19-02.52.54:887][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.08.19-02.52.54:887][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-02.52.54:887][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.08.19-02.52.54:888][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.08.19-02.52.54:888][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.08.19-02.52.54:888][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.08.19-02.52.54:888][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.08.19-02.52.54:888][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.19-02.52.54:889][519]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.19-02.52.54:998][520]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.19-02.52.55:003][520]LogSlate: Took 0.001631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.19-02.52.55:003][520]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.19-02.52.55:008][520]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.19-02.52.55:010][520]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-02.52.55:019][520]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-02.52.56:617][616]LogSlate: Window '编辑器偏好设置' being destroyed
+[2019.08.19-02.52.56:626][616]LogSlate: Window '编辑器偏好设置' being destroyed
+[2019.08.19-02.53.58:937][305]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.19-02.54.06:469][749]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.19-02.59.13:529][945]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-02.59.22:582][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.08.19-02.59.22:582][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.042
+[2019.08.19-02.59.22:585][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/BP_drop_target_set] ([1] browsable assets)...
+[2019.08.19-02.59.22:600][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_drop_target_set.BP_drop_target_set]
+[2019.08.19-02.59.22:600][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_drop_target_set]
+[2019.08.19-02.59.22:600][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_set_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.08.19-02.59.22:687][484]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set_Auto5C21114F4430A1F2F1D583AA397F56BEC.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_set_Auto5.uasset'
+[2019.08.19-02.59.22:690][484]LogFileHelpers: Auto-saving content packages took 0.106
+[2019.08.19-03.00.51:940][648]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.00.52:316][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.08.19-03.01.08:669][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.03.02:399][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.03.02:485][387]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set459A71254136ED907CE908B3E8D8C300.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.03.33:967][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.05.02:979][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.05.18:464][471]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.05.23:371][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.05.23:461][763]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_setAC7C52A249379F463C19029A7DAE9647.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.05.54:826][984]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.07.07:405][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.08.19-03.07.07:434][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-03.07.07:481][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.08.19-03.07.07:818][332]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel6084C7354A22641AEDAA219007651B8B.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-03.07.07:848][332]LogFileHelpers: Saving map 'mainlevel' took 0.416
+[2019.08.19-03.22.03:056][619]LogHttp: Warning: 0000020B897E2480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: request failed, libcurl error: 0 (No error)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20ab9687f70 [can pipeline])
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 1 (Re-using existing connection! (#49) with host datarouter.ol.epicgames.com)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.206.211) port 443 (#49))
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 7 (Closing connection 49)
+[2019.08.19-03.22.03:057][619]LogHttp: Warning: 0000020B897E2480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.19-03.22.03:395][620]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.19-03.39.15:612][912]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.19-03.39.25:953][222]LogSlate: Window '修改变量类型' being destroyed
+[2019.08.19-03.39.33:331][630]LogSlate: Window '在蓝图中寻找' being destroyed
+[2019.08.19-03.39.33:339][630]LogSlate: Window '在蓝图中寻找' being destroyed
+[2019.08.19-03.39.42:030][147]Cmd: TRANSACTION UNDO
+[2019.08.19-03.39.42:030][147]LogEditorTransaction: Undo 修改参数类型
+[2019.08.19-03.39.48:352][504]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.39.48:626][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.19-03.40.48:668][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.08.19-03.40.48:668][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/mainlevel' took 0.045
+[2019.08.19-03.40.48:670][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/BP_drop_target_set] ([1] browsable assets)...
+[2019.08.19-03.40.48:683][721]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_drop_target_set.BP_drop_target_set]
+[2019.08.19-03.40.48:683][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_drop_target_set]
+[2019.08.19-03.40.48:683][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_set_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.08.19-03.40.48:788][721]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set_Auto6FD67AB324E98111AD7C541833B645DFC.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/Autosaves/Game/blueprints/BP_drop_target_set_Auto6.uasset'
+[2019.08.19-03.40.48:794][721]LogFileHelpers: Auto-saving content packages took 0.125
+[2019.08.19-03.42.08:089][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.42.08:189][439]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set48895B1548637FC6963200B368367876.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.42.28:991][680]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.42.29:230][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.19-03.42.33:099][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.43.54:788][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.43.54:881][766]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set756A99E4479C7AF58727769E781EA711.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.46.05:124][497]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.46.05:394][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.08.19-03.46.19:057][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.46.38:435][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.46.38:435][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_92.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.46.38:435][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.46.38:438][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.46.38:439][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_96.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.46.38:439][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.05:096][ 20]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.47.05:812][ 20]LogUObjectHash: Compacting FUObjectHashTables data took  14.47ms
+[2019.08.19-03.47.07:691][ 73]BlueprintLog: New page: 编译BP_drop_target
+[2019.08.19-03.47.08:053][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.08.19-03.47.08:060][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_151.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:060][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_150.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:060][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_149.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:060][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_148.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:063][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_147.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:063][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_146.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:063][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_145.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:063][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_144.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:087][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_167.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:087][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_166.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:087][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_165.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:087][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_164.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:090][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_163.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:090][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_162.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:090][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.08:090][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.47.24:004][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.47.50:330][585]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.47.52:284][701]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.47.52:596][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.08.19-03.48.00:603][175]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.48.04:158][384]BlueprintLog: New page: 编译BP_drop_target
+[2019.08.19-03.48.04:428][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.08.19-03.48.04:433][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_211.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:433][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_210.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:433][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_209.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:433][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:439][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_223.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:439][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_222.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:439][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_221.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:440][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_220.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:466][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_239.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:466][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_238.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:466][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_237.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:466][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_236.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:469][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_227.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:469][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_226.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:469][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_225.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.48.04:469][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_224.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.49.22:045][  4]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.49.22:278][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.08.19-03.49.30:352][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.08.19-03.49.30:392][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset" SILENT=true
+[2019.08.19-03.49.30:473][472]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target0F1244C746AB8B8437CB5F8EE17B586C.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset'
+[2019.08.19-03.49.30:515][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.49.30:603][472]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set565F3693495B4F7BA52DB8B625EDB342.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.49.35:357][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:357][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:359][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:359][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:359][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:359][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:361][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:361][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:365][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:365][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:367][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:367][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:369][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:369][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:371][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:371][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:374][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:374][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:377][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:377][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:378][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:378][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:381][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:381][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:384][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:384][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:386][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:386][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:389][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:389][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:390][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:390][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:392][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:392][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:395][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:395][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:397][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:397][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:400][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:400][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:402][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:402][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:405][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:405][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:408][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:408][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:411][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:411][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:413][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:413][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:415][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:416][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:419][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:419][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:421][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:421][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:424][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:424][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:426][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:426][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:428][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:428][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:431][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:431][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:433][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:433][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:439][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:439][750]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:447][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:447][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:449][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:449][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:474][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:474][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:477][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:477][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:480][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:480][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:482][751]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:482][751]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:490][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:491][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:494][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:494][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:496][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:496][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:524][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:524][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:527][752]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:527][752]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:535][753]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:535][753]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:538][753]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:538][753]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:571][754]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:571][754]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:574][754]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:574][754]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:600][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:600][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:603][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:603][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:606][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:606][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:631][757]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:631][757]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:732][763]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:732][763]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.35:832][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.35:832][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.36:088][784]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.36:088][784]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.36:095][784]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.36:095][784]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.36:095][784]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.36:095][784]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.36:096][784]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.36:096][784]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.43:694][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.49.50:212][576]Cmd: TRANSACTION UNDO
+[2019.08.19-03.49.50:212][576]LogEditorTransaction: Undo 设置向量属性
+[2019.08.19-03.49.50:214][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.50:214][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.49.50:214][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.08.19-03.49.50:214][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.08.19-03.50.00:588][108]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.19-03.50.06:238][402]LogEditorViewport: Clicking on Actor (LMB): BP_post_C (BP_post)
+[2019.08.19-03.50.07:226][460]Cmd: DELETE
+[2019.08.19-03.50.07:226][460]Cmd: ACTOR DELETE
+[2019.08.19-03.50.07:230][460]LogEditorActor: Deleted Actor: BP_post_C
+[2019.08.19-03.50.07:288][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.08.19-03.50.07:288][460]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.08.19-03.50.11:974][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.50.20:742][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.50.29:156][730]LogEditorViewport: Clicking on Actor (LMB): BP_drop_target_set_C (BP_drop_target_set)
+[2019.08.19-03.50.42:894][541]LogEditorViewport: Clicking on Actor (LMB): BP_drop_target_set_C (BP_drop_target_set)
+[2019.08.19-03.50.58:264][420]LogEditorViewport: Clicking on Actor (LMB): BP_drop_target_set_C (BP_drop_target_set)
+[2019.08.19-03.51.05:380][832]LogEditorViewport: Clicking on Actor (LMB): BP_drop_target_set_C (BP_drop_target_set)
+[2019.08.19-03.51.12:583][243]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.19-03.51.15:113][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.51.15:179][397]LogTemp: Repeating last play command: 选中的视口
+[2019.08.19-03.51.15:213][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-03.51.15:213][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-03.51.15:213][397]PIE: New page: PIE会话：mainlevel（2019年8月19日 下午7:51:15）
+[2019.08.19-03.51.15:213][397]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-03.51.15:222][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008473s)
+[2019.08.19-03.51.15:223][397]LogAIModule: Creating AISystem for world mainlevel
+[2019.08.19-03.51.15:223][397]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.08.19-03.51.15:223][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/mainlevel.mainlevel to /Game/maps/UEDPIE_0_mainlevel.mainlevel (0.009622s)
+[2019.08.19-03.51.15:306][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.19-03.51.15:317][397]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-03.51.15:349][397]LogInit: FAudioDevice initialized.
+[2019.08.19-03.51.15:361][397]LogLoad: Game class is 'PinBallGameMode_C'
+[2019.08.19-03.51.15:365][397]LogWorld: Bringing World /Game/maps/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.08.19-11.51.15
+[2019.08.19-03.51.15:365][397]LogWorld: Bringing up level for play took: 0.002854
+[2019.08.19-03.51.15:365][397]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.08.19-03.51.15:369][397]PIE: /Game/maps/UEDPIE_0_mainlevel在编辑器中运行的起始时间-0.666
+[2019.08.19-03.51.15:369][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-03.51.26:390][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-03.51.26:390][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-03.51.26:390][ 43]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_mainlevel
+[2019.08.19-03.51.26:390][ 43]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.08.19-03.51.26:406][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-03.51.26:406][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/maps/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/maps/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.08.19-03.51.26:454][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-03.51.26:458][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.08.19-03.51.26:496][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.19-03.51.35:363][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-03.51.35:461][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-03.51.35:497][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.19-03.51.35:797][581]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevelBE21963E4C27FC64A99B53AD6595A8FA.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-03.51.35:822][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel_BuiltData" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset" SILENT=true
+[2019.08.19-03.51.35:893][581]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel_BuiltDataD9CFFE9D4BF312C8D34416B10708D259.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel_BuiltData.uasset'
+[2019.08.19-03.51.37:864][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.08.19-03.53.23:990][ 80]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.53.24:220][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.19-03.54.22:703][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.54.22:813][534]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_set107B907048D6FC6C823FBDA6DB5304F3.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-03.55.37:308][968]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.55.47:264][545]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.55.47:533][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.08.19-03.56.30:787][100]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-03.56.31:013][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.08.19-03.56.33:127][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_447.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:127][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_446.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:127][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_445.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:127][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_444.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:131][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4234.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:131][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4233.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:131][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4232.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:131][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4231.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:133][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_459.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:133][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_458.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:133][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_457.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:133][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_456.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:147][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_455.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:147][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_454.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:147][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_453.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:147][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_452.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:152][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4242.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:152][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4241.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:152][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4240.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:152][221]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4239.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:155][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_467.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:155][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_466.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:155][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_465.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:155][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_464.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.33:611][246]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.19-03.56.41:503][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_463.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:503][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_462.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:503][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_461.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:503][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_460.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:508][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4250.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:508][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4249.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:508][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4248.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:508][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4247.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:511][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_475.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:511][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_474.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:511][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_473.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:511][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_472.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:527][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_471.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:527][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_470.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:527][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_469.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:527][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_468.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:532][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4258.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:532][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4257.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:532][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4256.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:532][718]LogActorComponent: RegisterComponentWithWorld: (/Game/maps/mainlevel.mainlevel:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_4255.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:535][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_483.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:535][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_482.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:535][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_481.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.56.41:535][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_drop_target_C_CHILDACTOR_480.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.19-03.57.15:987][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.08.19-03.57.16:020][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/mainlevel" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.19-03.57.16:061][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.19-03.57.16:304][766]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/mainlevel2DF76DB040AA0C5A04D263945867A8B6.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/maps/mainlevel.umap'
+[2019.08.19-03.57.16:327][766]LogFileHelpers: Saving map 'mainlevel' took 0.309
+[2019.08.19-03.57.16:359][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset" SILENT=true
+[2019.08.19-03.57.16:442][766]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_targetB59923DD40E71D5647CAFD96F0ABB807.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target.uasset'
+[2019.08.19-03.57.16:487][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_drop_target_set" FILE="C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset" SILENT=true
+[2019.08.19-03.57.16:581][766]LogSavePackage: Moving 'C:/Users/ACER/Desktop/ball/三维弹球/Saved/BP_drop_target_setB50AA1AF4C08A5C901C3F7B5558F96D8.tmp' to 'C:/Users/ACER/Desktop/ball/三维弹球/Content/blueprints/BP_drop_target_set.uasset'
+[2019.08.19-04.02.59:587][124]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-04.02.59:687][124]LogBlueprint: Error: [Compiler BP_drop_target_set] 在'BP_drop_target_C’中找不到名为"OnTargetDrop\”的事件调度器。
+请确保已针对  绑定事件到On Target Drop  对'BP_drop_target_C’进行了编译
+[2019.08.19-04.02.59:687][124]LogBlueprint: Error: [Compiler BP_drop_target_set] 事件调度器引脚未连接  绑定事件到On Target Drop
+[2019.08.19-04.02.59:696][124]LogBlueprint: Error: [Compiler BP_drop_target_set] 由于存在一个坏的或未知类型（委托（按引用）），从  <无>  创建属性K2Node_AddDelegate_Delegate失败
+[2019.08.19-04.03.00:004][124]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.08.19-04.03.52:956][291]BlueprintLog: New page: 编译BP_drop_target_set
+[2019.08.19-04.03.52:964][291]LogBlueprint: Error: [Compiler BP_drop_target_set] 在'BP_drop_target_C’中找不到名为"OnTargetDrop\”的事件调度器。
+请确保已针对  绑定事件到On Target Drop  对'BP_drop_target_C’进行了编译
+[2019.08.19-04.03.52:964][291]LogBlueprint: Error: [Compiler BP_drop_target_set] 事件调度器引脚未连接  绑定事件到On Target Drop
+[2019.08.19-04.03.52:964][291]LogBlueprint: Error: [Compiler BP_drop_target_set] 由于存在一个坏的或未知类型（委托（按引用）），从  <无>  创建属性K2Node_AddDelegate_Delegate失败
+[2019.08.19-04.03.53:222][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: request failed, libcurl error: 0 (No error)
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20ab9687f70 [can pipeline])
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 1 (Re-using existing connection! (#72) with host datarouter.ol.epicgames.com)
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#72))
+[2019.08.19-04.05.02:972][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 7 (Closing connection 72)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: 0000020B0909C900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.19-04.05.02:973][398]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248E55EF-415F-79E0-828F-6F9E0A099AA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.19-04.06.32:231][724]BlueprintLog: New page: 编译BP_drop_target
+[2019.08.19-04.06.32:512][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.08.19-04.06.58:759][276]LogUObjectArray: Warning: Empty slot
+[2019.08.19-04.06.58:844][276]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.19-04.07.00:981][276]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.137 s
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: 
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: Stack: 
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa0b684189 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa0aea754a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa0aeb57af UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa085a6d61 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa07864dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa0781e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa294cd574 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa296bc013 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa2951915b UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa294f5668 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa294e994e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa376b4b9c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa376a264f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.19-04.07.00:981][276]LogOutputDevice: Error: [Callstack] 0x00007ffa376b7290 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa3769ed40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa46956d41 USER32.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa46956713 USER32.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa376b87b6 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ff7daa36980 UE4Editor.exe!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ff7daa4a91c UE4Editor.exe!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ff7daa4a9fa UE4Editor.exe!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ff7daa5b92c UE4Editor.exe!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ff7daa5e60e UE4Editor.exe!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa46f24034 KERNEL32.DLL!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: [Callstack] 0x00007ffa491c3691 ntdll.dll!UnknownFunction []
+[2019.08.19-04.07.00:982][276]LogOutputDevice: Error: 
+[2019.08.19-04.07.00:991][276]LogStats:                SubmitErrorReport -  0.000 s
