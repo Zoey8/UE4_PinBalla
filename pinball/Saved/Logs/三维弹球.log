@@ -1096,3 +1096,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.21-01.16.26:559][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.08.21-01.16.27:060][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.08.21-01.16.27:561][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.28:062][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.28:562][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.29:063][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.29:564][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.30:064][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.30:564][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.31:065][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.31:566][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.32:066][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.32:567][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.33:067][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.33:568][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.34:069][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.34:569][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.35:069][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.35:570][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.36:070][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.36:571][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.37:071][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.37:572][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.38:072][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.38:572][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.39:073][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.39:573][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.40:073][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.40:574][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.41:076][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.41:576][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.42:077][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.42:578][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.43:079][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.43:580][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.44:080][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.44:581][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.45:081][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.45:582][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.46:082][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.46:583][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.47:084][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.47:585][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.48:086][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.48:587][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.49:088][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.49:588][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.50:088][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.50:589][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.51:089][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.51:589][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.52:090][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.52:590][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.53:091][732]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7735DBBF-46AE-2A75-7E69-688203CA2544%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-7948402%2B%2B%2BUE4%2BRelease-4.23&UserID=686afba94cb91b2cdc5523813f4e1716%7C5b5cca900d1543e3ad4f647d0b8d4fde%7Cdc702d75-5693-405c-9ae0-b75093dd6c4a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26ac26cff70 [can pipeline])
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.236.205) port 443 (#0))
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.21-01.16.53:592][732]LogHttp: Warning: 0000026ABBDA7600: libcurl info message cache 7 (Closing connection 0)
+[2019.08.21-01.16.53:612][732]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.08.21-01.16.53:615][732]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.08.21-01.16.53:617][732]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.08.21-01.16.53:618][732]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.08.21-01.16.53:618][732]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.21-01.16.53:619][732]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.21-01.16.53:620][732]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.21-01.16.53:620][732]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.21-01.16.53:620][732]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.21-01.16.53:620][732]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.21-01.16.53:621][732]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.21-01.16.53:621][732]LogD3D11RHI: Shutdown
+[2019.08.21-01.16.53:621][732]LogD3D11RHI: CleanupD3DDevice
+[2019.08.21-01.16.53:622][732]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-01.16.53:622][732]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-01.16.53:622][732]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-01.16.53:779][732]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.21-01.16.53:793][732]LogExit: Exiting.
+[2019.08.21-01.16.53:816][732]Log file closed, 08/21/19 09:16:53
